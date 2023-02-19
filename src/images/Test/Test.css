@@ -1,0 +1,35 @@
+
+.book-items{
+    margin-bottom: 30px;
+    border-bottom: 5px solid rgb(11, 9, 9);
+   padding-bottom: 30px;
+   padding-right: 15px;
+}
+/* .book-items img{
+    height: 400px;
+    width: 96%;
+    border-radius: 30px;
+
+   
+} */
+.book-items{
+    height: 400px;
+    width: 96%;
+    border-radius: 30px;
+    background-color: rgb(218, 30, 30);
+
+   
+}
+
+.test-container{
+    display: grid;
+    grid-template-columns: repeat(4, 2fr);
+   
+}
+.with-borders {
+    margin-top: 30px;
+    border-right: 1px solid rgb(182, 174, 174);
+  }
+  .without-borders {
+    margin-top: 30px;
+  }

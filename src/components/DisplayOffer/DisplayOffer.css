@@ -1,0 +1,58 @@
+.left-Offer-cart-container{
+    background: url('https://demo2.pavothemes.com/bookory/wp-content/uploads/2022/11/h6_banner1.jpg') no-repeat center;
+    background-color: rgb(168, 94, 236);
+    height: 310px;
+    width: 90%;
+    background-size: cover;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.right-Offer-cart-container{
+    background: url('https://demo2.pavothemes.com/bookory/wp-content/uploads/2022/11/h6_banner2.jpg')no-repeat center ;
+    background-color: rgb(215, 126, 9);
+    height: 310px;
+    width: 90%;
+    background-size: cover;
+    border-radius: 30px;
+}
+
+.left-Offer-cart-container .offer-logo{
+    height: 130px;
+    width: 130px;
+    margin-left: 50px;
+    padding-bottom: 20px;
+   
+}
+.offer-headline{
+    font-size: 45px;
+    font-weight: 700;
+    margin-left: 150px;
+}
+.offer-text-two{
+    width: 50%;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 40%;
+}
+.right-side-offer-text{
+    margin-left: 45%;
+    margin-top: 10%;
+    
+}
+.sale-text{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.right-offer-btn{
+    height: 48px;
+    width: 60%;
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(249, 250, 251);
+    font-weight: bold;
+    font-size: 20px;
+}

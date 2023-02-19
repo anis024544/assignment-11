@@ -1,0 +1,41 @@
+.banner-image{
+    background-image: url('https://demo2.pavothemes.com/bookory/wp-content/uploads/2022/11/h6_banner3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    height: 250px;
+    width: 100%;
+    border-radius: 30px;
+}
+.font-weight-bold{
+    font-weight: 700;
+}
+.banner-image div{
+   color: white;
+}
+.banner-btn{
+    background-color: white;
+    height: 60px;
+    width: 180px;
+    font-weight: bolder;
+    font-size: 20px;
+    border-radius: 30px;
+    color: rgb(9, 0, 0);
+    border: none;
+    text-align: center;
+}
+.banner-btn:hover{
+    background-color: rgb(255,69,0)
+  
+}
+
+.text-for-banner{
+    margin-left: 50%;
+    padding: 0px 20px;
+}
+.text-for-banner {
+    
+}

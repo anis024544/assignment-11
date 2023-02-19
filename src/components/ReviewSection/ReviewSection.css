@@ -1,0 +1,13 @@
+.products-count{
+    color: rgb(191, 190, 188);
+    font-family: 'Courier New', Courier, monospace;
+}
+.review-part{
+    
+}
+.review-part img{
+border-radius: 8px;
+}
+.rating-section{
+    padding-left: 15px ;
+}

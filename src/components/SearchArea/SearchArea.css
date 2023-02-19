@@ -1,0 +1,50 @@
+.search-container input {
+}
+.search-container button {
+  padding: 3px 10px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+.notification-logo span:nth-child(1n + 0) {
+  font-size: 30px;
+  border-right: 1px solid rgb(220, 216, 216);
+  padding: 0px 20px;
+  height: 10px;
+}
+.notification-logo span:last-child {
+  border-right: none;
+}
+.offcanvas.body {
+  right: 0;
+  top: 0;
+
+background-color: red;
+height: 1000px;
+
+}
+.location-logo {
+  font-size: 30px;
+}
+.ecom-card {
+  display: inline-block;
+  position: relative;
+  
+}
+.notification-value {
+
+  position: absolute;
+  /* transform: translate(100px)!important; */
+  /* transform: ; */
+  font-size: 16px !important;
+  top: -5px;
+  left: 25px;
+  background-color: rgb(246, 14, 14);
+  border-radius: 50%;
+  height: 25px;
+  width: 25px;
+  color: white;
+ 
+}

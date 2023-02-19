@@ -1,0 +1,45 @@
+
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 50px;
+    margin-top: 10px;
+    border-bottom: 1px solid rgb(190, 187, 187);
+}
+
+.nav-links .nav-item {
+   border-left: 1px solid rgb(211, 211, 211);
+   height: 15px;
+   display: flex;
+   align-items: center;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-right: 20px;
+   padding-left: 20px;
+
+}
+
+.nav-links .nav-item:first-child {
+   border-left:none;
+
+}
+
+.nav-links .nav-item a {
+  
+   color: black;
+
+}
+.social-links svg:nth-child(1n+0){
+   margin-left: 30px;
+}
+.nav-links a {
+   text-decoration: none;
+}
+.Sign-out{
+   border: none;
+   background-color: rgb(43, 150, 243);
+   font-weight: bold;
+   color: rgb(249, 15, 15);
+   border-radius: 10px;
+}

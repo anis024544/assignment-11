@@ -1,0 +1,37 @@
+.border-line{
+    height: 1px;
+    width: 50%;
+    background-color: rgb(168, 162, 162);
+
+}
+.TopVendorText{
+    color: rgb(0,0,0);
+    font-weight: bolder;
+    font-size: 120px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+.Top-Vendor-btn{
+    height: 60px;
+    width: 180px;
+    font-weight: bolder;
+    font-size: 20px;
+    border-radius: 30px;
+    background-color: orangered;
+    color: white;
+    border: none;
+    text-align: center;
+}
+.Top-vendor-product-images img{
+    border-radius: 20px;
+}
+.Top-vendor-small-image img{
+    height: 120px;
+    width: 90px;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 10px;
+}
+.Top-vendor-small-image img:nth-child(2){
+    margin-top: 5px;
+}

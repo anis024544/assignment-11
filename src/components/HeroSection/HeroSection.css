@@ -1,0 +1,17 @@
+
+.tab-btn-container{
+    position: absolute;
+    top: 450px;
+}
+/* .tab-btn-circle{
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    background-color: white;
+} */
+.tab-button{
+    height: 20px;
+    width: 20px;
+    background-color: brown;
+    border-radius: 50%;
+}

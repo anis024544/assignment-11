@@ -1,0 +1,57 @@
+.book-container {
+  position: relative;
+  padding-top: 100px;
+  height: auto;
+}
+.book-circle {
+  height: 190px;
+  width: 190px;
+  background-color: rgb(237, 237, 237);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+
+  
+ 
+}
+.book-circle:hover {
+  background-color: rgb(246,93,78)
+}
+.book-circle:hover img{
+  transition-duration: 2s;
+  
+  transform: scale(1.2);
+
+}
+.book-circle img {
+  position: absolute;
+  bottom: 130px;
+}
+.book-title {
+ margin-top: 25px;
+ 
+}
+
+.slick-prev {
+  left: -8px;
+  z-index: 1;
+  top: 155px;
+}
+.slick-next {
+  right: 12px;
+  top: 155px;
+  z-index: 1;
+}
+.slick-prev:before {
+  font-size: 33px;
+}
+.slick-next:before {
+  font-size: 33px;
+}
+.slick-prev:before, .slick-next:before {
+  color: rgb(78, 76, 76);
+}
+.card{
+  border: none !important;
+}
